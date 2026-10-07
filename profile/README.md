@@ -1,5 +1,5 @@
 <p>
-  <img src="https://raw.githubusercontent.com/hagen-cloud/.github/main/profile/assets/hagen-cloud-banner.svg" alt="Hagen Cloud — Cloud & DevOps Engineering" width="100%">
+  <img src="https://raw.githubusercontent.com/hagen-cloud/.github/d774abb6085a34ebc81d6378405743c29c8ad689/profile/assets/hagen-cloud-banner.png" alt="Hagen Cloud — Cloud & DevOps Engineering" width="100%">
 </p>
 
 **Practical cloud engineering, built for clarity and maintainability.**
